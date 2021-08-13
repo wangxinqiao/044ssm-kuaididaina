@@ -1,5 +1,5 @@
 # 基于ssm开发的Java快递代拿系统
-于ssm开发的Java快递代拿系统
+基于ssm开发的Java快递代拿系统
 
 
 ### 使用技术
@@ -10,7 +10,7 @@
 支付账号：uceskd4358@sandbox.com
 登录密码、支付密码：111111
 
-源码获取地址：[点此获取](http://www.shuyue.fun/?type=productinfo&id=145)
+源码获取地址：[ **点此获取** ](http://www.shuyue.fun/?type=productinfo&id=145)
 
 **注意：**
 
